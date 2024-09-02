@@ -1,0 +1,12 @@
+.line{
+    height: 4px;
+    width: 80px;
+    background-color: white;
+    margin-left: 0.75rem;
+}
+.linee{
+    height: 4px;
+    width: 80px;
+    background-color:white;
+    margin-right: 0.75rem;
+}

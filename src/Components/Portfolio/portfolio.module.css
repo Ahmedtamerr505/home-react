@@ -1,0 +1,20 @@
+.line{
+    height: 4px;
+    width: 80px;
+    background-color: rgb(44, 62, 80);
+    margin-left: 0.75rem;
+}
+.linee{
+    height: 4px;
+    width: 80px;
+    background-color: rgb(44, 62, 80);
+    margin-right: 0.75rem;
+}
+.w100{
+    width: 40rem !important;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}

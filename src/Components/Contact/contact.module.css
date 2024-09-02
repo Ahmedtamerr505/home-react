@@ -1,0 +1,27 @@
+.line{
+    height: 4px;
+    width: 80px;
+    background-color:rgb(44, 62, 80);
+    margin-left: 0.75rem;
+}
+.linee{
+    height: 4px;
+    width: 80px;
+    background-color:rgb(44, 62, 80);
+    margin-right: 0.75rem;
+}
+.label{
+    position: absolute;
+    left: 10px;
+    top: 100%;
+    opacity: 0;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+}
+.goup{
+    top: -30px;
+    opacity: 1;
+}
